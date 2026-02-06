@@ -1,3 +1,38 @@
+# FoliarScript Rebuild
+
+> Foliar nutrient analysis and recommendation platform for agriculture.
+> **Stack**: Next.js 15 + FastAPI + Supabase + Stripe
+
+---
+
+## Quick Navigation
+
+| What | Where |
+|------|-------|
+| Master Plan | `plans/MASTER_PLAN.md` |
+| Current Tasks | `tasks/todo.md` |
+| Lessons Learned | `tasks/lessons.md` |
+| Product Spec | `docs/PRODUCT_SPEC.md` |
+| Design System | `docs/reference/08-design-system.md` |
+| Recommendation Logic | `docs/reference/03-recommendation-engine.md` |
+| Nutrient Model Data | `docs/reference/04-nutrient-model-data.md` |
+
+### Phase Contexts
+| Phase | Status | Context |
+|-------|--------|---------|
+| 1. Foundation | **Current** | `plans/phase-1-foundation/` |
+| 2. Core | Pending | `plans/phase-2-core/` |
+| 3. Features | Pending | `plans/phase-3-features/` |
+| 4. Polish | Pending | `plans/phase-4-polish/` |
+
+### Patterns & Templates
+- API Endpoint: `patterns/api-endpoint.md`
+- React Form: `patterns/react-form.md`
+- Supabase Query: `patterns/supabase-query.md`
+- Component: `patterns/component.md`
+
+---
+
 ## Workflow Orchestration
 
 ### 1. Plan Mode Default

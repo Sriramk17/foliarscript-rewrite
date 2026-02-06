@@ -462,7 +462,8 @@ Step 4: Review & Submit
 
 | Item | Status | Notes |
 |------|--------|-------|
-| PDF template design | Pending | User will provide |
-| PDF parsing API details | Pending | User has existing service |
-| Stripe configuration | Pending | User will provide existing config |
+| PDF template design | **Done** | See `docs/reference/10-pdf-template-spec.md` |
+| PDF parsing API details | Pending | User will provide API endpoint details |
+| CSV mapping service | Pending | User will provide details |
+| Stripe configuration | Pending | User will provide when we reach that stage |
 | Model data for new crops | Future | Currently corn + soybean |
